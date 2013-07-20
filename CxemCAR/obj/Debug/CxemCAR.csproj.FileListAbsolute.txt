@@ -1,0 +1,58 @@
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\bin\Debug\le\FEZ Panda II Application.exe
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\bin\Debug\be\FEZ Panda II Application.exe
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\bin\Debug\le\FEZ Panda II Application.pdb
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\bin\Debug\be\FEZ Panda II Application.pdb
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\bin\Debug\FEZ Panda II Application.exe
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\bin\Debug\FEZ Panda II Application.pdb
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\bin\Debug\le\FEZ Panda II Application.pe
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\bin\Debug\le\FEZ Panda II Application.pdbx
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\bin\Debug\be\FEZ Panda II Application.pe
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\bin\Debug\be\FEZ Panda II Application.pdbx
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\obj\Debug\CxemCAR.Resources.resources
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\obj\Debug\CxemCAR.Resources.tinyresources
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\obj\Debug\TinyResGen.cache
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\obj\Debug\be\FEZ Panda II Application.pe
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\obj\Debug\be\FEZ Panda II Application.pdbx
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\obj\Debug\le\FEZ Panda II Application.pe
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\obj\Debug\le\FEZ Panda II Application.pdbx
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\obj\Debug\FEZ Panda II Application.exe
+C:\Users\Tolik\AppData\Local\Temporary Projects\CxemCAR\obj\Debug\FEZ Panda II Application.pdb
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\obj\Debug\CxemCAR.Resources.resources
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\obj\Debug\CxemCAR.Resources.tinyresources
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\obj\Debug\TinyResGen.cache
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\le\CxemCAR.exe
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\be\CxemCAR.exe
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\le\CxemCAR.pdb
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\be\CxemCAR.pdb
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\CxemCAR.exe
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\CxemCAR.pdb
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\le\CxemCAR.pe
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\le\CxemCAR.pdbx
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\be\CxemCAR.pe
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\be\CxemCAR.pdbx
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\obj\Debug\be\CxemCAR.pe
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\obj\Debug\be\CxemCAR.pdbx
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\obj\Debug\le\CxemCAR.pe
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\obj\Debug\le\CxemCAR.pdbx
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\obj\Debug\CxemCAR.exe
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\obj\Debug\CxemCAR.pdb
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\FEZ_Panda\CxemCAR\CxemCAR\bin\Debug\GHIElectronics.NETMF.System.xml
